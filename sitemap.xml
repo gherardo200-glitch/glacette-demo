@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Dominio da confermare al passaggio su Firebase (glacette.com o www.glacette.com). -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://glacette.com/</loc></url>
+  <url><loc>https://glacette.com/catalogo</loc></url>
+  <url><loc>https://glacette.com/catalogo/harmony</loc></url>
+  <url><loc>https://glacette.com/catalogo/exclusive</loc></url>
+  <url><loc>https://glacette.com/catalogo/excellent</loc></url>
+  <url><loc>https://glacette.com/chi-siamo</loc></url>
+  <url><loc>https://glacette.com/contatti</loc></url>
+  <url><loc>https://glacette.com/termini</loc></url>
+  <url><loc>https://glacette.com/privacy</loc></url>
+  <url><loc>https://glacette.com/cookie</loc></url>
+  <url><loc>https://glacette.com/recesso</loc></url>
+</urlset>

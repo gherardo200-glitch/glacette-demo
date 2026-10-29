@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin
+Disallow: /carrello
+Disallow: /checkout
+
+Sitemap: https://glacette.com/sitemap.xml
+Disallow: /ordine/
